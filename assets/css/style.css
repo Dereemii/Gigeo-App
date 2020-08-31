@@ -9917,6 +9917,13 @@ h3 {
   background-color: tomato;
 }
 
+.boton {
+  border: 0;
+  font-size: 0.875rem;
+  margin-left: 10px;
+  padding: 5px;
+}
+
 .navigation .navbar-toggler {
   border: none;
   color: black;
