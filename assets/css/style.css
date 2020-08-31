@@ -9917,7 +9917,7 @@ h3 {
   background-color: tomato;
 }
 
-.boton {
+.button {
   border: 0;
   font-size: 0.875rem;
   margin-left: 10px;
@@ -9955,22 +9955,12 @@ h3 {
 .profile__img {
   background-image: url("../img/profile-image.png");
   background-size: cover;
-  height: 50px;
-  width: 50px;
+  height: 52px;
+  width: 52px;
   border-radius: 50%;
 }
 .profile__info {
   font-size: 0.8125rem;
-}
-.profile__info .nombre {
-  margin: 0;
-  padding: 0;
-  font-weight: bold;
-}
-.profile__info .seguidores {
-  margin: 0;
-  padding: 0;
-  color: slategrey;
 }
 
 .media {
